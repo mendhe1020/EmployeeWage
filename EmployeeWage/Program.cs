@@ -7,6 +7,7 @@
             Console.WriteLine("Hello Welcome to Employee Wage Program");
             Employee obj = new Employee();
             obj.EmpWage();
+
         }
     }
 }
